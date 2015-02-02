@@ -1,0 +1,396 @@
+BOLETIM DE ORIENTAÇÃO ACADÊMICACENTRO: UNIDADE: CURSO: PÁGINA: DATA: PERÍODO ATUAL: Centro de TecnologiaEscola PolitécnicaEngenharia Eletrônica e de Computação  (Versão Curricular: 1999/2  -  Distribuição Curricular: Engenharia Eletrônica e de Computação)116/01/20152015/1ALUNO: DRE: CURSO ATUAL: SITUAÇÃO ATUAL: LAURA MARRA PIRES109045082Engenharia Eletrônica e de Computação (Graduação)Ativa
+
+Atividades Acadêmicas ObrigatóriasElenco Recomendado / Dados AtuaisAtividades Acadêmicas (ou equivalentes) já aprovadasAtiv. Acad. a cursar(ocorrências)CódigoNomeC.H.CredPer.CódigoNomeC.H.CredGrau
+
+EEL170Computacao I5.0901EEL170Computacao I5.0909.2
+
+FIS111Fisica Experimental I1.0301FIS111Fisica Experimental I1.0307.5
+
+FIT112Fisica I - A4.0601FIT112Fisica I - A4.0605.3
+
+IQG111Quimica EE4.0601IQG111Quimica EE4.0607.1
+
+MAC118Calculo Difer e Integral I6.0901MAC118Calculo Difer e Integral I6.0907.3
+
+EEH210Engenharia e Meio Ambiente2.0302EEH210Engenharia e Meio Ambiente2.0308.5
+
+EEL270Computacao II5.0902EEL270Computacao II5.0905.1
+
+EEL280Circuitos Logicos5.0902EEL280Circuitos Logicos5.0905.6
+
+FIS121Fisica Experimental II1.0302FIS121Fisica Experimental II1.0308.1
+
+FIT122Fisica II - A4.0602FIT122Fisica II - A4.0605.5
+
+MAC128Calculo Diferen e Integral II4.0602MAC128Calculo Diferen e Integral II4.0605.3
+
+MAE125Algebra Linear II4.0602MAE125Algebra Linear II4.0606.5
+
+EEG110Desenho de Engenharia4.0753EEG105Sistemas Projetivos4.0607.4
+
+EEL315Eletronica I3.0603EEL315Eletronica I3.0607.6
+
+EEL350Sistemas Lineares I5.0753EEL350Sistemas Lineares I5.0756.7
+
+EEL356Metodos Mat em Eng Eletronica4.0603EEL356Metodos Mat em Eng Eletronica4.0606.4
+
+FIM230Fisica III - A4.0603FIM230Fisica III - A4.0606.4
+
+FIN231Fisica Experimental III1.0303FIN231Fisica Experimental III1.0307.2
+
+MAC238Calculo Diferen e Integral III4.0603MAC238Calculo Diferen e Integral III4.0605.5
+
+EEL410Eletronica II5.0904EEL410Eletronica II5.0907.6
+
+EEL420Circuitos Eletricos I5.0754EEL420Circuitos Eletricos I5.0755.4
+
+EEL470Algoritmos e Estrut.de Dados5.0754EEL470Algoritmos e Estrut.de Dados5.0756.5
+
+EEL480Sistemas Digitais5.0904EEL480Sistemas Digitais5.0905.7
+
+FIM240Fisica IV - A4.0604FIM240Fisica IV - A4.0606.0
+
+FIN241Fisica Experimental IV1.0304FIN241Fisica Experimental IV1.0308.1
+
+EEL515Eletrônica III5.0905EEL515Eletrônica III5.0905.4
+
+EEL525Circuitos Eletricos II5.0755EEL525Circuitos Eletricos II5.0757.3
+
+EEL535Teoria Eletromagnetica II5.0755EEL535Teoria Eletromagnetica II5.0756.7
+
+EEL555Sistemas Lineares II5.0755EEL555Sistemas Lineares II5.0757.5
+
+EEL580Arquitetura de Computadores5.0755EEL580Arquitetura de Computadores5.0755.2
+
+EEL615Eletronica IV5.0906EEL615Eletronica IV5.0908.8
+
+EEL630Modelos Probabilisticos em Eng4.0606EEL630Modelos Probabilisticos em Eng4.0607.6
+
+EEL640Comunicacoes Analogicas5.0756EEL640Comunicacoes Analogicas5.0758.5
+
+EEL660Controle Linear I A5.0756EEL660Controle Linear I A5.0757.9
+
+EEL670Linguagens de Programacao5.0906EEL670Linguagens de Programacao5.0906.4
+
+EEL710Instrum.e Tecnicas de Medidas5.0757EEL710Instrum.e Tecnicas de Medidas5.0758.1
+
+
+
+
+BOLETIM DE ORIENTAÇÃO ACADÊMICACENTRO: UNIDADE: CURSO: PÁGINA: DATA: PERÍODO ATUAL: Centro de TecnologiaEscola PolitécnicaEngenharia Eletrônica e de Computação  (Versão Curricular: 1999/2  -  Distribuição Curricular: Engenharia Eletrônica e de Computação)216/01/20152015/1ALUNO: DRE: CURSO ATUAL: SITUAÇÃO ATUAL: LAURA MARRA PIRES109045082Engenharia Eletrônica e de Computação (Graduação)Ativa
+
+EEL711Processamento de Sinais5.0757EEL711Processamento de Sinais5.0757.9
+
+EEL740Comunicacoes Digitais5.0757EEL740Comunicacoes Digitais5.075T
+
+EEL760Controle Linear II-A5.0757EEL760Controle Linear II-A5.0757.8
+
+EEL770Sistemas Operacionais5.0757EEL770Sistemas Operacionais5.0758.2
+
+EELX00Projeto Integrado1.0307EELX00Projeto Integrado1.03010.0
+
+EEE387Conversao de Energia5.0758EEE387Conversao de Energia5.0757.3
+
+EEI312Economia A4.0609EEI312Economia A4.060T
+
+EEI321Organizacao das Industrias4.06010EEI321Organizacao das Industrias4.0607.0
+
+EELU01Estagio Supervisionado2.06010EEWU00Estágio Obrigatório2.0160ncg
+
+EELX01Projeto Final2.06010Inscrição Facultada
+
+Totais a serem cumpridos:187.03090Já cumpridos:185.03030A cumprir:2.060
+
+Atividades Acadêmicas Optativas (Escolha Condicionada)Elenco Recomendado / Dados AtuaisAtividades Acadêmicas (ou equivalentes) já aprovadasAtiv. Acad. a cursar(ocorrências)CódigoNomeC.H.CredCódigoNomeC.H.CredGrau
+
+COE471Sensores e Atuadores I4.075Inscrição Facultada
+
+COP364Empreendedorismo I4.075COP364Empreendedorismo I4.060T
+
+COP481Novos Modelos de Negócio4.075Inscrição Facultada
+
+COP503Gestão da Inovação4.075COP503Gestão da Inovação4.07510.0
+
+COP506Inovação e Empreendedorismo4.075Inscrição Facultada
+
+COP507Inteligência Competitiva4.075Inscrição Facultada
+
+COP511Comércio Eletrônico4.075Inscrição Facultada
+
+COS600Animação e Jogos4.075Inscrição Vedada
+
+COS601Bancos de Dados Avançados4.075Inscrição Facultada
+
+COS605Fer.Amb. de Des. de Software3.060Inscrição Vedada
+
+EEE620Conservacao de Energia4.075Inscrição Facultada
+
+EEL418Programação Avançada4.075EEL418Programação Avançada4.075T
+
+EEL472Sintese Moderna de Circuitos4.060Inscrição Vedada
+
+EEL485Software I4.060Inscrição Facultada
+
+EEL606Optoeletronica4.060Inscrição Facultada
+
+EEL811Audio4.060Inscrição Facultada
+
+EEL812Circuitos de Potencia4.060Inscrição Facultada
+
+EEL813Circ Analóg Integr Proc Sinais4.060Inscrição Facultada
+
+EEL814Microeletronica I4.060Inscrição Facultada
+
+EEL815Microeletronica II4.060Inscrição Vedada
+
+EEL816Processamento de Voz4.060Inscrição Facultada
+
+EEL817Redes Neurais4.060Inscrição Facultada
+
+EEL818Arquitet. P/ Proc Dig Sinais4.060Inscrição Facultada
+
+
+
+
+BOLETIM DE ORIENTAÇÃO ACADÊMICACENTRO: UNIDADE: CURSO: PÁGINA: DATA: PERÍODO ATUAL: Centro de TecnologiaEscola PolitécnicaEngenharia Eletrônica e de Computação  (Versão Curricular: 1999/2  -  Distribuição Curricular: Engenharia Eletrônica e de Computação)316/01/20152015/1ALUNO: DRE: CURSO ATUAL: SITUAÇÃO ATUAL: LAURA MARRA PIRES109045082Engenharia Eletrônica e de Computação (Graduação)Ativa
+
+EEL819Imagens Médicas4.060Inscrição Facultada
+
+EEL820Top Esp em Circ e Instrument4.060Inscrição Facultada
+
+EEL831Antenas e Propagacao4.060EEL831Antenas e Propagacao4.0607.4
+
+EEL832Circuitos de Comunicacoes4.060Inscrição Facultada
+
+EEL833Microondas4.060Inscrição Facultada
+
+EEL834Proc Digital de Imagens4.060Inscrição Facultada
+
+EEL835Sistemas de Comunicacoes4.060Inscrição Facultada
+
+EEL836Telefonia4.060Inscrição Facultada
+
+EEL837Televisao Analogica4.060Inscrição Facultada
+
+EEL838Televisao Digital4.060EEL838Televisao Digital4.0607.4
+
+EEL839Transmissao Digital4.060Inscrição Facultada
+
+EEL840Top Esp em Sist Comunicacoes4.060Inscrição Facultada
+
+EEL841Novas Mídias4.060Inscrição Facultada
+
+EEL850Software Livre Metod Particip4.060Inscrição Facultada
+
+EEL851Controle de Proc p/Computador4.075Inscrição Facultada
+
+EEL852Controle Multivariavel4.060Inscrição Facultada
+
+EEL853Controle Otimo4.060Inscrição Facultada
+
+EEL854Identif de Sist e Contr Adapt4.060Inscrição Facultada
+
+EEL855Robotica e Automacao4.060Inscrição Facultada
+
+EEL856Sist.de Controle Nao Lineares4.060Inscrição Facultada
+
+EEL857Otimizacao em Grafos4.060Inscrição Facultada
+
+EEL858Otimizacao Linear e Nao-Linear4.060Inscrição Facultada
+
+EEL859Introdução à Program Linear4.060Inscrição Facultada
+
+EEL860Top Esp Sistemas de Controle4.060Inscrição Facultada
+
+EEL871Banco de Dados4.075EEL871Banco de Dados4.0758.0
+
+EEL872Comp. Paralela e Distribuida4.060Inscrição Facultada
+
+EEL873Engenharia de Software4.075Inscrição Facultada
+
+EEL874Inteligencia Artifical4.060EEL874Inteligencia Artifical4.0607.5
+
+EEL875Internet e ArquiteturaTCP/IP4.075Inscrição Facultada
+
+EEL876Microcomputadores4.060Inscrição Facultada
+
+EEL877Mod e Aval Desempenho de Redes4.060Inscrição Facultada
+
+EEL878Redes de Computadores I4.075Inscrição Facultada
+
+EEL879Redes de Computadores II4.060Inscrição Facultada
+
+EEL880Top Esp em Sistemas Digitais4.060Inscrição Facultada
+
+EEL881Teoria da Computacao4.060Inscrição Facultada
+
+EEL882Computacao Grafica4.075Inscrição Facultada
+
+EEL883Interface e Integr de Sistemas4.060Inscrição Facultada
+
+EEL884Eng Software Orient a Objetos4.060EEL884Eng Software Orient a Objetos4.060T
+
+EEL911Teor Jogos Aplic à Tecn Inform4.060Inscrição Facultada
+
+EEL912Processamento Sinais de Audio4.060Inscrição Facultada
+
+
+
+
+BOLETIM DE ORIENTAÇÃO ACADÊMICACENTRO: UNIDADE: CURSO: PÁGINA: DATA: PERÍODO ATUAL: Centro de TecnologiaEscola PolitécnicaEngenharia Eletrônica e de Computação  (Versão Curricular: 1999/2  -  Distribuição Curricular: Engenharia Eletrônica e de Computação)416/01/20152015/1ALUNO: DRE: CURSO ATUAL: SITUAÇÃO ATUAL: LAURA MARRA PIRES109045082Engenharia Eletrônica e de Computação (Graduação)Ativa
+
+EEL970Software para Smartphone4.060Inscrição Facultada
+
+EEW018Fund Metrol e Aval da Conformi4.060Inscrição Facultada
+
+EEW515Tópicos Especiais Engenharia2.030Inscrição Facultada
+
+EEWX02Proj de Extensão em Engenharia4.060Inscrição Facultada
+
+FIS352Fis de Mat e Dispos Semicond4.060Inscrição Facultada
+
+FIW487Top em Fisica Contemporanea II4.060Inscrição Facultada
+
+Totais a serem cumpridos:32.0480Já cumpridos:32.0540A cumprir:0.00
+
+Atividades Acadêmicas Optativas (Escolha Restrita)Elenco Recomendado / Dados AtuaisAtividades Acadêmicas (ou equivalentes) já aprovadasAtiv. Acad. a cursar(ocorrências)CódigoNomeC.H.CredCódigoNomeC.H.CredGrau
+
+Grupo 1
+
+
+
+EEI212Metodologia de Pesquisa2.030Inscrição Facultada
+
+EEI625Gestão de Projetos Solidários3.045Inscrição Facultada
+
+EEW215Tóp Esp História da Engenharia2.030Inscrição Facultada
+
+FCA218Antropologia Cultural4.060Inscrição Facultada
+
+FCB618Sociedade e Direito4.060Inscrição Vedada
+
+FCF108Etica I4.060Inscrição Facultada
+
+FCF362Estetica I4.060Inscrição Facultada
+
+FCF654Hist da Filos no Brasil I4.060Inscrição Facultada
+
+FCP104Introdução à Ciência Política4.060FCP104Introdução à Ciência Política4.0606.8
+
+FCP636Teoria Política Contemporânea4.060Inscrição Facultada
+
+FCP670Crises da Realidade Brasileira4.060Inscrição Vedada
+
+IHI056Historiografia Brasileira II4.060Inscrição Vedada
+
+IHI098Movimento Operário no Brasil4.060Inscrição Vedada
+
+IHI101História Social da Arte4.060Inscrição Vedada
+
+IHI106Top Esp em Hist do Brasil III4.060Inscrição Facultada
+
+IHI143Top Esp de Historia Moderna II4.060Inscrição Facultada
+
+PRU110Ciências Soc Gestão Pública I4.060Inscrição Facultada
+
+PRU111Teorias do Planejamento4.060Inscrição Facultada
+
+PRU231Formação Econ Soc Brasileira4.060Inscrição Facultada
+
+PRU240Política e Planej Ambiental4.060Inscrição Facultada
+
+PRU242Políticas Sociais4.060Inscrição Facultada
+
+PRU352Ética do Setor Público4.060Inscrição Facultada
+
+EEI202Humanidades e Ciencias Sociais2.0301EEI202Humanidades e Ciencias Sociais2.0307.5
+
+EEI206Historia da Tecnologia2.0301EEI206Historia da Tecnologia2.0308.7
+
+EEI426Engenharia do Trabalho4.0601Inscrição Facultada
+
+
+
+
+BOLETIM DE ORIENTAÇÃO ACADÊMICACENTRO: UNIDADE: CURSO: PÁGINA: DATA: PERÍODO ATUAL: Centro de TecnologiaEscola PolitécnicaEngenharia Eletrônica e de Computação  (Versão Curricular: 1999/2  -  Distribuição Curricular: Engenharia Eletrônica e de Computação)516/01/20152015/1ALUNO: DRE: CURSO ATUAL: SITUAÇÃO ATUAL: LAURA MARRA PIRES109045082Engenharia Eletrônica e de Computação (Graduação)Ativa
+
+EEL191Engenharia e Sociedade4.0601Inscrição Facultada
+
+EEL192Evolucao da Ciencia4.0601Inscrição Facultada
+
+EEL193O Trabalho do Futuro4.0601Inscrição Facultada
+
+FCF243Filosofia da Ciencia I EE2.0301Inscrição Facultada
+
+FCF245Filosofia da Natureza I EE2.0301Inscrição Facultada
+
+FCF354Epist e Hist das Ciencias I EE2.0301Inscrição Facultada
+
+LEF599Est da Ling Bras de Sinais I4.0601Inscrição Facultada
+
+Totais a serem cumpridos:8.0120Já cumpridos:8.0120A cumprir:0.00
+
+Atividades Acadêmicas Cursadas de Livre EscolhaCódigoNomeC.H.CredGrau
+
+IEE624Matematica Financeira I4.06010.0
+
+ACC211Introducao a Contabilidade4.060T
+
+Totais a serem cumpridos:8.0120Já cumpridos:8.0120A cumprir:0.00
+
+Observações Finais
+
+1.    
+
+Esse currículo admite uma carga horária total de 120 horas em disciplinas complementares de livre escolha. 
+
+Esse currículo admite 8.0 créditos em disciplinas complementares de livre escolha.
+
+Esse currículo admite uma carga horária total de 120 horas em disciplinas complementares de escolha restrita. 
+
+Esse currículo admite 8.0 créditos em disciplinas complementares de escolha restrita.
+
+
+
+2.    
+
+Períodos Integralizados (RES 05/89 - CEG):16
+
+Prazo máximo de integralização:15
+
+Carga horária obtida acumulada: 3880
+
+Créditos obtidos acumulados: 233.0
+
+CR acumulado: 7.0
+
+
+
+3.    Períodos de trancamento de matrícula:
+
+Nenhum
+
+
+
+4.    Períodos de cancelamento por abandono:
+
+Nenhum
+
+
+
+
+BOLETIM DE ORIENTAÇÃO ACADÊMICACENTRO: UNIDADE: CURSO: PÁGINA: DATA: PERÍODO ATUAL: Centro de TecnologiaEscola PolitécnicaEngenharia Eletrônica e de Computação  (Versão Curricular: 1999/2  -  Distribuição Curricular: Engenharia Eletrônica e de Computação)616/01/20152015/1ALUNO: DRE: CURSO ATUAL: SITUAÇÃO ATUAL: LAURA MARRA PIRES109045082Engenharia Eletrônica e de Computação (Graduação)Ativa
+
+5.    Periodos com coeficiente de rendimento menor do que 3,0:
+
+Nenhum
+
+
+
+6.    Frequência de reprovações:
+
+MAC118Calculo Difer e Integral I->    1 vez(es)2009/2
+
+
+
+
